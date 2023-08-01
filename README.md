@@ -5,7 +5,7 @@
 Looking at Documentation is an important part of programming. You don't have to memorize anything, but you should get familiar with the types of information you can find in different docs. For this exercise, using the SQLAlchemy documentation [here](https://docs.sqlalchemy.org/en/20/orm/session_basics.html#querying), take a look at the following session methods:
 
 1. `.query`
-2. `.filter_by`
+2. `.filter`
 3. `.get`
 4. `.all`
 5. `.add`
